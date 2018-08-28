@@ -1,0 +1,219 @@
+Output for Part B:
+I found a lot more Students with 4.0s? I didn't want to limit the output to 5 since that would be "cheating".
+Student Name: Alan Border || Mentor Name: Richard Ellison || GPA: 4
+Student Name: Craig Matthews || Mentor Name: Richard Ellison || GPA: 4
+Student Name: John Matthews || Mentor Name: Richard Ellison || GPA: 4
+Student Name: Briggs Jason || Mentor Name: Richard Ellison || GPA: 4
+Student Name: Jeremy Koney || Mentor Name: Richard Ellison || GPA: 4
+Student Name: Lee Andrews || Mentor Name: Richard Ellison || GPA: 4
+Student Name: Perminder Singh || Mentor Name: Richard Ellison || GPA: 4
+Student Name: Gavin Larson || Mentor Name: Richard Ellison || GPA: 4
+Student Name: Wee Tuyet || Mentor Name: Richard Ellison || GPA: 4
+Student Name: Gene Lehmer || Mentor Name: Richard Ellison || GPA: 4
+Student Name: David Boon || Mentor Name: Richard Ellison || GPA: 4
+Student Name: Deepak Patel || Mentor Name: Richard Ellison || GPA: 4
+... And Continused
+
+Output for Part A: ->  Rounding wasn't abled to the output until I updated the source.
+Student ID    || NEW GPA         || New Credits     ||  Current Credits    || New Classification [||]     
+
+Student ID: 118784412 || NEW Grades: 2.01 || New Credits: 99 || Current Credits: 96 || Class: Senior
+RESULT: 1
+Student ID: 124208644 || NEW Grades: 2.01 || New Credits: 71 || Current Credits: 68 || Class: Junior
+RESULT: 1
+Student ID: 131838016 || NEW Grades: 3.07 || New Credits: 27 || Current Credits: 21 || Class: Freshman
+RESULT: 1
+Student ID: 143293833 || NEW Grades: 2.936875 || New Credits: 48 || Current Credits: 42 || Class: Sophomore
+RESULT: 1
+Student ID: 163728111 || NEW Grades: 2.9997222222222226 || New Credits: 108 || Current Credits: 99 || Class: Senior
+RESULT: 1
+Student ID: 164500920 || NEW Grades: 3.8536585365853657 || New Credits: 82 || Current Credits: 76 || Class: Junior
+RESULT: 1
+Student ID: 164776911 || NEW Grades: 2.8144444444444443 || New Credits: 27 || Current Credits: 21 || Class: Freshman
+RESULT: 1
+Student ID: 170815037 || NEW Grades: 2.0476190476190474 || New Credits: 63 || Current Credits: 54 || Class: Junior
+RESULT: 1
+Student ID: 185141262 || NEW Grades: 3.897102803738318 || New Credits: 107 || Current Credits: 98 || Class: Senior
+RESULT: 1
+Student ID: 191083779 || NEW Grades: 2.9992682926829266 || New Credits: 82 || Current Credits: 70 || Class: Junior
+RESULT: 1
+Student ID: 203745018 || NEW Grades: 3.8472727272727276 || New Credits: 33 || Current Credits: 24 || Class: Sophomore
+RESULT: 1
+Student ID: 212976207 || NEW Grades: 3.0 || New Credits: 42 || Current Credits: 39 || Class: Sophomore
+RESULT: 1
+Student ID: 222105935 || NEW Grades: 2.9823684210526316 || New Credits: 114 || Current Credits: 105 || Class: Senior
+RESULT: 1
+Student ID: 224620876 || NEW Grades: 2.1185714285714288 || New Credits: 84 || Current Credits: 69 || Class: Junior
+RESULT: 1
+Student ID: 232820149 || NEW Grades: 1.8875000000000002 || New Credits: 36 || Current Credits: 24 || Class: Sophomore
+RESULT: 1
+Student ID: 252533260 || NEW Grades: 2.061875 || New Credits: 48 || Current Credits: 39 || Class: Sophomore
+RESULT: 1
+Student ID: 260369148 || NEW Grades: 3.0 || New Credits: 102 || Current Credits: 102 || Class: Senior
+RESULT: 1
+Student ID: 261812056 || NEW Grades: 2.886185567010309 || New Credits: 97 || Current Credits: 82 || Class: Senior
+RESULT: 1
+Student ID: 262891588 || NEW Grades: 2.9255555555555555 || New Credits: 27 || Current Credits: 24 || Class: Freshman
+RESULT: 1
+Student ID: 271978135 || NEW Grades: 2.7536842105263157 || New Credits: 57 || Current Credits: 42 || Class: Sophomore
+RESULT: 1
+Student ID: 273277984 || NEW Grades: 3.0091666666666668 || New Credits: 108 || Current Credits: 105 || Class: Senior
+RESULT: 1
+Student ID: 279702622 || NEW Grades: 2.1355555555555554 || New Credits: 81 || Current Credits: 72 || Class: Junior
+RESULT: 1
+Student ID: 285719425 || NEW Grades: 3.0 || New Credits: 18 || Current Credits: 18 || Class: Freshman
+RESULT: 1
+Student ID: 290986112 || NEW Grades: 2.9473684210526314 || New Credits: 57 || Current Credits: 48 || Class: Sophomore
+RESULT: 1
+Student ID: 296669559 || NEW Grades: 2.9816216216216214 || New Credits: 111 || Current Credits: 105 || Class: Senior
+RESULT: 1
+Student ID: 302335678 || NEW Grades: 3.0 || New Credits: 78 || Current Credits: 78 || Class: Junior
+RESULT: 1
+Student ID: 308635036 || NEW Grades: 2.7075 || New Credits: 24 || Current Credits: 18 || Class: Freshman
+RESULT: 1
+Student ID: 315967897 || NEW Grades: 3.04125 || New Credits: 48 || Current Credits: 42 || Class: Sophomore
+RESULT: 1
+Student ID: 328718420 || NEW Grades: 2.9821052631578944 || New Credits: 114 || Current Credits: 99 || Class: Senior
+RESULT: 1
+Student ID: 332012037 || NEW Grades: 2.9144680851063827 || New Credits: 94 || Current Credits: 82 || Class: Senior
+RESULT: 1
+Student ID: 340502961 || NEW Grades: 2.033 || New Credits: 30 || Current Credits: 27 || Class: Sophomore
+RESULT: 1
+Student ID: 363200537 || NEW Grades: 2.2347058823529413 || New Credits: 68 || Current Credits: 56 || Class: Junior
+RESULT: 1
+Student ID: 365774792 || NEW Grades: 2.050816326530612 || New Credits: 98 || Current Credits: 95 || Class: Senior
+RESULT: 1
+Student ID: 382109560 || NEW Grades: 2.1379310344827585 || New Credits: 87 || Current Credits: 78 || Class: Junior
+RESULT: 1
+Student ID: 387215322 || NEW Grades: 2.331818181818182 || New Credits: 33 || Current Credits: 18 || Class: Sophomore
+RESULT: 1
+Student ID: 391910519 || NEW Grades: 2.0521052631578947 || New Credits: 57 || Current Credits: 48 || Class: Sophomore
+RESULT: 1
+Student ID: 406746417 || NEW Grades: 2.9716822429906546 || New Credits: 107 || Current Credits: 98 || Class: Senior
+RESULT: 1
+Student ID: 409508678 || NEW Grades: 3.037974683544304 || New Credits: 79 || Current Credits: 76 || Class: Junior
+RESULT: 1
+Student ID: 419180204 || NEW Grades: 2.8333333333333335 || New Credits: 18 || Current Credits: 12 || Class: Freshman
+RESULT: 1
+Student ID: 432180765 || NEW Grades: 2.9444444444444446 || New Credits: 54 || Current Credits: 45 || Class: Sophomore
+RESULT: 1
+Student ID: 449976666 || NEW Grades: 3.0083898305084746 || New Credits: 118 || Current Credits: 112 || Class: Senior
+RESULT: 1
+Student ID: 466094162 || NEW Grades: 2.988275862068966 || New Credits: 87 || Current Credits: 78 || Class: Junior
+RESULT: 1
+Student ID: 467545237 || NEW Grades: 2.5825 || New Credits: 24 || Current Credits: 12 || Class: Freshman
+RESULT: 1
+Student ID: 477453864 || NEW Grades: 2.9615384615384617 || New Credits: 78 || Current Credits: 75 || Class: Junior
+RESULT: 1
+Student ID: 480293439 || NEW Grades: 3.0388235294117645 || New Credits: 51 || Current Credits: 48 || Class: Sophomore
+RESULT: 1
+Student ID: 483223789 || NEW Grades: 3.0086486486486486 || New Credits: 111 || Current Credits: 102 || Class: Senior
+RESULT: 1
+Student ID: 483727101 || NEW Grades: 2.962962962962963 || New Credits: 81 || Current Credits: 78 || Class: Junior
+RESULT: 1
+Student ID: 485619193 || NEW Grades: 2.848181818181818 || New Credits: 33 || Current Credits: 27 || Class: Sophomore
+RESULT: 1
+Student ID: 490649143 || NEW Grades: 2.2706250000000003 || New Credits: 48 || Current Credits: 39 || Class: Sophomore
+RESULT: 1
+Student ID: 495490053 || NEW Grades: 2.9678740157480314 || New Credits: 127 || Current Credits: 112 || Class: Senior
+RESULT: 1
+Student ID: 500094214 || NEW Grades: 2.0235714285714286 || New Credits: 84 || Current Credits: 78 || Class: Junior
+RESULT: 1
+Student ID: 501674545 || NEW Grades: 2.19 || New Credits: 21 || Current Credits: 18 || Class: Freshman
+RESULT: 1
+Student ID: 504013895 || NEW Grades: 2.139473684210526 || New Credits: 57 || Current Credits: 48 || Class: Sophomore
+RESULT: 1
+Student ID: 513110141 || NEW Grades: 1.0665714285714285 || New Credits: 105 || Current Credits: 102 || Class: Senior
+RESULT: 1
+Student ID: 513729696 || NEW Grades: 2.16 || New Credits: 75 || Current Credits: 66 || Class: Junior
+RESULT: 1
+Student ID: 550658107 || NEW Grades: 2.7096774193548385 || New Credits: 31 || Current Credits: 25 || Class: Sophomore
+RESULT: 1
+Student ID: 587735656 || NEW Grades: 2.916 || New Credits: 60 || Current Credits: 45 || Class: Junior
+RESULT: 1
+Student ID: 590987789 || NEW Grades: 2.963783783783784 || New Credits: 111 || Current Credits: 105 || Class: Senior
+RESULT: 1
+Student ID: 601496044 || NEW Grades: 2.0 || New Credits: 75 || Current Credits: 75 || Class: Junior
+RESULT: 1
+Student ID: 636596145 || NEW Grades: 1.7766666666666666 || New Credits: 36 || Current Credits: 24 || Class: Sophomore
+RESULT: 1
+Student ID: 644488789 || NEW Grades: 3.0439999999999996 || New Credits: 45 || Current Credits: 42 || Class: Sophomore
+RESULT: 1
+Student ID: 658579865 || NEW Grades: 2.980857142857143 || New Credits: 105 || Current Credits: 99 || Class: Senior
+RESULT: 1
+Student ID: 664353912 || NEW Grades: 3.1180645161290323 || New Credits: 93 || Current Credits: 81 || Class: Senior
+RESULT: 1
+Student ID: 696302689 || NEW Grades: 3.3329999999999997 || New Credits: 30 || Current Credits: 21 || Class: Sophomore
+RESULT: 1
+Student ID: 712524758 || NEW Grades: 3.0 || New Credits: 72 || Current Credits: 72 || Class: Junior
+RESULT: 1
+Student ID: 712952591 || NEW Grades: 2.9650434782608697 || New Credits: 115 || Current Credits: 112 || Class: Senior
+RESULT: 1
+Student ID: 722131306 || NEW Grades: 2.8874157303370787 || New Credits: 89 || Current Credits: 80 || Class: Junior
+RESULT: 1
+Student ID: 737972250 || NEW Grades: 3.0660000000000003 || New Credits: 30 || Current Credits: 27 || Class: Sophomore
+RESULT: 1
+Student ID: 743991555 || NEW Grades: 3.033 || New Credits: 60 || Current Credits: 54 || Class: Junior
+RESULT: 1
+Student ID: 750913239 || NEW Grades: 3.0 || New Credits: 99 || Current Credits: 99 || Class: Senior
+RESULT: 1
+Student ID: 774885901 || NEW Grades: 3.0227586206896553 || New Credits: 87 || Current Credits: 84 || Class: Junior
+RESULT: 1
+Student ID: 785103478 || NEW Grades: 3.0330000000000004 || New Credits: 30 || Current Credits: 24 || Class: Sophomore
+RESULT: 1
+Student ID: 785273479 || NEW Grades: 1.9411764705882353 || New Credits: 51 || Current Credits: 48 || Class: Sophomore
+RESULT: 1
+Student ID: 785811329 || NEW Grades: 2.980485436893204 || New Credits: 103 || Current Credits: 94 || Class: Senior
+RESULT: 1
+Student ID: 787422802 || NEW Grades: 2.873103448275862 || New Credits: 87 || Current Credits: 75 || Class: Junior
+RESULT: 1
+Student ID: 793034333 || NEW Grades: 2.499 || New Credits: 30 || Current Credits: 18 || Class: Sophomore
+RESULT: 1
+Student ID: 801166066 || NEW Grades: 2.923636363636364 || New Credits: 66 || Current Credits: 54 || Class: Junior
+RESULT: 1
+Student ID: 803024290 || NEW Grades: 4.0 || New Credits: 108 || Current Credits: 105 || Class: Senior
+RESULT: 1
+Student ID: 812073765 || NEW Grades: 2.9765517241379307 || New Credits: 87 || Current Credits: 75 || Class: Junior
+RESULT: 1
+Student ID: 831142613 || NEW Grades: 2.111111111111111 || New Credits: 27 || Current Credits: 24 || Class: Freshman
+RESULT: 1
+Student ID: 845037919 || NEW Grades: 2.2291803278688525 || New Credits: 61 || Current Credits: 52 || Class: Junior
+RESULT: 1
+Student ID: 850631208 || NEW Grades: 1.0403030303030303 || New Credits: 99 || Current Credits: 96 || Class: Senior
+RESULT: 1
+Student ID: 862952924 || NEW Grades: 2.8925 || New Credits: 84 || Current Credits: 75 || Class: Junior
+RESULT: 1
+Student ID: 867910658 || NEW Grades: 2.999090909090909 || New Credits: 33 || Current Credits: 21 || Class: Sophomore
+RESULT: 1
+Student ID: 876550324 || NEW Grades: 3.0 || New Credits: 48 || Current Credits: 48 || Class: Sophomore
+RESULT: 1
+Student ID: 885469446 || NEW Grades: 3.0380769230769227 || New Credits: 104 || Current Credits: 98 || Class: Senior
+RESULT: 1
+Student ID: 895255243 || NEW Grades: 2.977078651685393 || New Credits: 89 || Current Credits: 80 || Class: Junior
+RESULT: 1
+Student ID: 901511548 || NEW Grades: 3.0 || New Credits: 21 || Current Credits: 21 || Class: Freshman
+RESULT: 1
+Student ID: 905922853 || NEW Grades: 3.88984375 || New Credits: 64 || Current Credits: 52 || Class: Junior
+RESULT: 1
+Student ID: 907425648 || NEW Grades: 2.9548648648648648 || New Credits: 111 || Current Credits: 105 || Class: Senior
+RESULT: 1
+Student ID: 909334701 || NEW Grades: 2.9778260869565214 || New Credits: 92 || Current Credits: 80 || Class: Senior
+RESULT: 1
+Student ID: 916916939 || NEW Grades: 2.8511111111111114 || New Credits: 27 || Current Credits: 21 || Class: Freshman
+RESULT: 1
+Student ID: 930231660 || NEW Grades: 3.840952380952381 || New Credits: 63 || Current Credits: 54 || Class: Junior
+RESULT: 1
+Student ID: 952145559 || NEW Grades: 4.0 || New Credits: 95 || Current Credits: 95 || Class: Senior
+RESULT: 1
+Student ID: 956234659 || NEW Grades: 3.0 || New Credits: 76 || Current Credits: 76 || Class: Junior
+RESULT: 1
+Student ID: 965882492 || NEW Grades: 2.888888888888889 || New Credits: 27 || Current Credits: 24 || Class: Freshman
+RESULT: 1
+Student ID: 973071948 || NEW Grades: 2.8768421052631576 || New Credits: 57 || Current Credits: 45 || Class: Sophomore
+RESULT: 1
+Student ID: 980102825 || NEW Grades: 0.1291764705882353 || New Credits: 85 || Current Credits: 76 || Class: Junior
+RESULT: 1
+Student ID: 985954783 || NEW Grades: 0.6354545454545454 || New Credits: 33 || Current Credits: 24 || Class: Sophomore
+RESULT: 1
+Student ID: 992485307 || NEW Grades: 0.15647058823529414 || New Credits: 51 || Current Credits: 48 || Class: Sophomore
+RESULT: 1
